@@ -1,0 +1,17 @@
+.firstname, .lastname, .email, .submit{
+    margin-top:10px;
+    text-align:center
+}
+.submit input{
+    padding:3px 15px;
+
+}
+div.contactme{
+    border: black solid 1px;
+    border-radius:6px;
+    margin-left:auto;
+    margin-right: auto;
+    width:fit-content;
+    padding:20px;
+    margin-top:10%;
+}
