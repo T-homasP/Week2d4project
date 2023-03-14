@@ -15,3 +15,6 @@ div.contactme{
     padding:20px;
     margin-top:10%;
 }
+h1, label, input{
+    font-family: 'Sono', sans-serif;
+}
